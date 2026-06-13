@@ -51,10 +51,3 @@ src/main/java/rubrica/
 └── aziende.java
 ```
 
-## Miglioramenti futuri
-
-Per una versione successiva, conviene rinominare le classi seguendo le convenzioni Java:
-
-- `funzione` -> `GestoreRubrica`
-- `Persone` -> `Persona`
-- `aziende` -> `Azienda`
