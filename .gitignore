@@ -1,0 +1,19 @@
+# Maven
+/target/
+
+# Database locale: non pubblicare dati personali
+rubrica.db
+rubrica.db-shm
+rubrica.db-wal
+
+# Java
+*.class
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
