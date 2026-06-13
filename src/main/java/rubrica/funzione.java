@@ -6,10 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-/**
- * Contiene le operazioni CRUD della rubrica.
- * La struttura riprende il progetto iniziale, ma usa SQLite invece degli ArrayList.
- */
+
 public class funzione {
     private final Scanner obj;
 
